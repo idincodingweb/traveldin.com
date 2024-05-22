@@ -4,7 +4,7 @@ Indonesia
   kode html nya ter enkripsi.
 # anda bisa mendapatkan source ini tanpa enkripsi dengan
   cara klik link download di bawah ini
-# link download : https://sfile.mobi/2hAGJTK4mIO
+# link download : https://sfile.mobi/9FAKYXoJRmy
 
 english 
 
@@ -12,4 +12,4 @@ english
   the html code is encrypted.
 # You can get this source without encryption with
   how to click the download link below
-# download link: https://sfile.mobi/2hAGJTK4mIO
+# download link: https://sfile.mobi/9FAKYXoJRmy
